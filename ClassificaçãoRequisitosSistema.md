@@ -1,20 +1,6 @@
  
-
  
-
-![img](file:///C:/Users/USURIO~2/AppData/Local/Temp/msohtmlclip1/01/clip_image002.jpg)
-
- 
-
- 
-
- 
-
- 
-
-Projeto Web 
-
- 
+**PROJETO WEB **
 
 Pré-requisitos de desenvolvimento
 
